@@ -1,0 +1,11 @@
+DROP TABLE IF EXISTS receipts;
+DROP TABLE IF EXISTS expense_transactions;
+DROP TABLE IF EXISTS payment_transactions;
+DROP TABLE IF EXISTS enrollment_optional_items;
+DROP TABLE IF EXISTS enrollments;
+DROP TABLE IF EXISTS optional_fee_items;
+DROP TABLE IF EXISTS class_courses;
+DROP TABLE IF EXISTS teachers;
+DROP TABLE IF EXISTS branches;
+DROP TABLE IF EXISTS students;
+DROP TABLE IF EXISTS settings;
